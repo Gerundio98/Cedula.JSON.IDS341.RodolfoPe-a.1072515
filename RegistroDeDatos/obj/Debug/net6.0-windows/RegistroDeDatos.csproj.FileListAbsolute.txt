@@ -1,0 +1,38 @@
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.exe
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.deps.json
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.runtimeconfig.json
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.dll
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.pdb
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.Form1.resources
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.Properties.Resources.resources
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.AssemblyInfo.cs
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.dll
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\refint\RegistroDeDatos.dll
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.pdb
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.genruntimeconfig.cache
+C:\Users\rodol\source\repos\RegistroDeDatos\RegistroDeDatos\obj\Debug\net6.0-windows\ref\RegistroDeDatos.dll
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.exe
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.deps.json
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.runtimeconfig.json
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.dll
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\RegistroDeDatos.pdb
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.AssemblyReference.cache
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.Form1.resources
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.Properties.Resources.resources
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.GenerateResource.cache
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.AssemblyInfo.cs
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.csproj.CopyComplete
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.dll
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\refint\RegistroDeDatos.dll
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.pdb
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\RegistroDeDatos.genruntimeconfig.cache
+C:\Users\Rodolfo Peña\Downloads\Cedula.Desarrollo-de-Software-II-main\Cedula.Desarrollo-de-Software-II-main\RegistroDeDatos\obj\Debug\net6.0-windows\ref\RegistroDeDatos.dll
